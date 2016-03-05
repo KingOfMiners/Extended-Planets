@@ -1,2 +1,2 @@
-KingOfMiners:capeGold
+KingOfMiners:capeDeveloper
 MineCartRacer2:capeGold
