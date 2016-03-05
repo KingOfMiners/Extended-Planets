@@ -1,1 +1,2 @@
 KingOfMiners:capeGold
+MineCartRacer2:capeGold
