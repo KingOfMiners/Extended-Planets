@@ -1,2 +1,4 @@
 KingOfMiners:capeDeveloper
 MineCartRacer2:capeGold
+umCallum:capeGold
+Mr_Wierd707:capeGold
