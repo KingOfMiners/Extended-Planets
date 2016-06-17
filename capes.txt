@@ -1,5 +1,5 @@
-KingOfMiners:capePurple
-MineCartRacer2:capeGold
+KingOfMiners:capeDeveloper
+MineCartRacer2:capePurple
 umCallum:capeGold
 Mr_Wierd707:capeGold
 Kreeator:capeGold
