@@ -3,3 +3,4 @@ MineCartRacer2:capePurple
 umCallum:capeGold
 MatthewEricSmith:capeGold
 Kreeator:capeGold
+vos6434:capeGold
