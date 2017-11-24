@@ -1,6 +1,6 @@
 KingOfMiners:capeDeveloper
 MineCartRacer2:capePurple
 umCallum:capeGold
-MrWierd:capeGold
+LeonTrotsky_:capeGold
 Kreeator:capeGold
 vos6434:capeGold
