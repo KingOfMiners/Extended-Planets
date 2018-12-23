@@ -1,0 +1,10 @@
+{
+  "homepage": "https://forum.micdoodle8.com/index.php?threads/1-7-10-extendedplanets-alpha.6531/",
+  "1.12.2": {
+    "1.4.4": "Updated to 1.12.2."
+  },
+  "promos": {
+    "1.12.2-latest": "1.4.4",
+    "1.12.2-recommended": "1.4.4"
+  }
+}
