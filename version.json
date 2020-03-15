@@ -4,13 +4,13 @@
     "0.1.0": "Updated to 1.12.2."
   },
   "1.7.10": {
-	"0.4.2": "Improve the update checker. Fix some bugs.",
-	"0.4.1": "Changelist."
+    "0.4.2": "Improve the update checker. Fix some bugs.",
+    "0.4.1": "Changelist."
   },
   "promos": {
     "1.12.2-recommended": "0.1.0",
     "1.12.2-latest": "0.1.0",
-	"1.7.10-recommended": "0.4.2",
-	"1.7.10-latest": "0.4.2"
+    "1.7.10-recommended": "0.4.2",
+    "1.7.10-latest": "0.4.2"
   }
 }
